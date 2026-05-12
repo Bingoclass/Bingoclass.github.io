@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Redirect to Replit digicard -->
-<meta http-equiv="refresh" content="0;url=https://bingo-class.lovable.app//">
+<meta http-equiv="refresh" content="0;url=https://bingoclass.lovable.app//">
 
 <title>Bingo-Class</title>
 <style>
@@ -30,7 +30,7 @@
 <body>
 <p>
 Redirecting to your Bingo Time…<br>
-If nothing happens, <a href="https://bingo-class.lovable.app/" target="_blank" style="color:#0f0;">click here</a>.
+If nothing happens, <a href="https://bingoclass.lovable.app/" target="_blank" style="color:#0f0;">click here</a>.
 </p>
 </body>
 </html>
